@@ -4,15 +4,7 @@
 
 ---
 
-### 🚀 Live Demo
 
-> _Coming Soon_ — Add Vercel / IPFS link here once deployed.
-
----
-
-### 📸 Screenshot
-
-![vote_web3 Preview](./screenshot.png)
 
 ---
 
