@@ -1,7 +1,3 @@
-Got it! Here's your updated **`README.md`** without the full smart contract code section — clean and professional:
-
----
-
 ## 🗳️ vote_web3 — Decentralized Voting Platform on Educhain
 
 > Secure, transparent, and tamper-proof voting system powered by Ethereum smart contracts and Educhain.
@@ -125,7 +121,3 @@ Feel free to fork the repo and submit a PR.
 ### 🛡️ License
 
 MIT © 2025 [Vansh Gokhale](https://github.com/Vansh-Gokhale)
-
----
-
-Let me know if you want this `README.md` saved directly into your project or want to attach your deployed contract address / frontend demo link!
