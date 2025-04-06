@@ -1,6 +1,6 @@
 # E-Voting
 
-This template should help get you started developing with Vue 3 in Vite.
+This template should help get you started developing with Vue 3 in Vite. 
 
 ## Recommended IDE Setup
 
@@ -15,6 +15,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ```sh
 npm install
 ```
+
 
 ### Compile and Hot-Reload for Development
 
