@@ -66,7 +66,7 @@ npx hardhat compile
 ### 🔐 .env File (Create in root)
 
 ```env
-EDUCHAIN_RPC=https://rpc.educhain.testnet
+EDUCHAIN_RPC=https://rpc.open-campus-codex.gelato.digital
 PRIVATE_KEY=your_private_key_without_0x
 ```
 
